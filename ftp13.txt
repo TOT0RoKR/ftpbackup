@@ -1,0 +1,7 @@
+open 172.30.1.13
+anonymous
+
+cd pub
+put ../Pictures.tar
+close
+quit
